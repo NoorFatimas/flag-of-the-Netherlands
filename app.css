@@ -1,0 +1,35 @@
+
+  .upper {
+    width: 600px;
+    height: 400px;
+    border: 2px solid #000;
+    position: relative;
+    
+  }
+  
+  
+  
+  .a{
+    width: 600px; 
+    height: 135px;
+    display: inline-block;
+    
+    background-color: #B51320;
+  }
+  
+  .b {
+    width: 600px; 
+    height: 132px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #ffffff;
+  }
+  
+  .c{
+     width: 600px; 
+    height: 130px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #161762;
+  }
+  
